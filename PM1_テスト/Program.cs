@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello.Visual asdf");
+﻿Console.WriteLine("Hello.Visual baka");
